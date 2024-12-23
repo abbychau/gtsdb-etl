@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "tailer-4136",
+            "script": "node index.js 4136",
+            "watch": true
+        }
+    ]
+}
